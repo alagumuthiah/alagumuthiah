@@ -1,4 +1,4 @@
-### Hi there ,I am Alagu. I am Software Engineer.👋
+### Hi there👋, I am Alagu. I am a Software Engineer👩‍💻.
 
 I am interested to learn new tools and technologies.
 <!--
