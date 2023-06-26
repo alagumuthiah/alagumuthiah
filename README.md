@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there ,I am Alagu. I am Software Engineer.👋
 
+I am interested to learn new tools and technologies.
 <!--
 **alagumuthiah/alagumuthiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
