@@ -1,9 +1,9 @@
 ### Hi there👋, I am Alagu. I am a Software Engineer👩‍💻.
 
-- I am a Full Stack Engineer who is interested to develop applications that would create impact to the end users/ customers.
-- As an Engineer, I am intrigued to solve new challenging problems everyday.
-- Have prior experience of working in an Innovation team managing projects across teams.
-- Currently, I wanted to pursue my career as a full time software developer.
+- I'm a Full Stack Engineer with a strong interest in creating impactful applications for end users.
+- I thrive on solving challenging problems and deeply curious about the workings of technology.
+- Have prior experience working in a role as an Innovation consultant encompassing roles in project management, brainstorming facilitator and driving process improvements.
+- My current objective is to shift my career path and embark on a full-time journey as a software developer.
   
 <!--
 **alagumuthiah/alagumuthiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
