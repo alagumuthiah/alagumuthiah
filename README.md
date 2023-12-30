@@ -3,7 +3,7 @@
 - I'm a Full Stack Engineer with a strong interest in creating impactful applications for end users.
 - I thrive on solving challenging problems and deeply curious about the workings of technology.
 - Have prior experience working in a role as an Innovation consultant encompassing roles in project management, brainstorming facilitator and driving process improvements.
-- My current objective is to shift my career path and embark on a full-time journey as a software developer.
+- Currently, my goal is to transition my career path and embark on a full-time journey as a software developer.
   
 <!--
 **alagumuthiah/alagumuthiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,17 +30,19 @@ Here are some ideas to get you started:
 
 **Languages & Technologies:**
 
-<img align="left" src= "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width ="40px" alt="react_icon"/>
-<img align="left" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40px" alt="html__icon"/>
-<img align="left" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40px" alt="css__icon"/>
-<img align="left" src = "https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" width="40px" alt="materialUI__icon"/>
-<img align="left" src= "https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width ="40px" alt="javascript_icon"/>
-<img align="left" src= "https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width ="40px" alt="redux_icon"/>
-<img align="left" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40px" alt="nodejs_icon"/>
-<img align="left" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="40px" alt="express_icon"/>
-<img align="left" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="40px" alt="restapi_icon"/>
-<img src= "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width ="40px" alt="postgres_icon"/>
-
+  <img align="left" src= "https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width ="40px" alt="react_icon"/>
+  <img align="left" src = "https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40px" alt="html__icon"/>
+  <img align="left" src = "https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40px" alt="css__icon"/>
+  <img align="left" src = "https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" width="40px" alt="materialUI__icon"/>
+  <img align="left" src= "https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width ="40px" alt="javascript_icon"/>
+  <img align="left" src= "https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width ="40px" alt="redux_icon"/>
+  <img align="left" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="40px" alt="nodejs_icon"/>
+  <img align="left" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="40px" alt="express_icon"/>
+  <img align="left" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="40px" alt="restapi_icon"/>
+  <img align="left" src= "https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width ="40px" alt="postgres_icon"/>
+  <img align="left" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40px" alt="python_icon"/>
+  <img align="left" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="40px" alt="docker_icon"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" width="40px" alt="flask_icon"/>
 
 **Tools:**
 
