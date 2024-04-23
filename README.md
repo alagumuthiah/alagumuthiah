@@ -3,7 +3,7 @@
 - I'm a Full Stack Engineer with a strong interest in creating impactful applications for end users.
 - I thrive on solving challenging problems and deeply curious about the workings of technology.
 - Have prior experience working in a role as an Innovation consultant encompassing roles in project management, brainstorming facilitator and driving process improvements.
-- Currently, my goal is to transition my career path and embark on a full-time journey as a software developer.
+- Transitioning my career path and embark on a full-time journey as a software developer.
   
 <!--
 **alagumuthiah/alagumuthiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
